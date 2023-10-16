@@ -2,7 +2,7 @@
 
 <<team1-프로젝트>>
 
-https://github.com/2022-05-JAVA-DEVELOPER/web-project-team1-bookbread.git
+https://github.com/2023-05-JAVA-DEVELOPER/web-project-team1-bookbread.git
 
 <<team2-프로젝트>>
 
